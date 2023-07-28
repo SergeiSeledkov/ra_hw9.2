@@ -1,0 +1,18 @@
+.container {
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.card {
+    width: 300px;
+    margin-bottom: 25px;
+}
+
+.create-post {
+    padding: 5px 10px;
+
+    border: 1px solid black;
+    background-color: transparent;
+    font-size: 18px;
+    cursor: pointer;
+}
